@@ -1,11 +1,11 @@
 class Person
 
   def name=(their_name)
-    @persons_name = their name
+    @name = their name
   end #writer
 
   def name
-    @persons_name
+    @name
   end #reader
 
 end #class
