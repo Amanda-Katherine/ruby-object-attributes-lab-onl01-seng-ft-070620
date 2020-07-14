@@ -5,6 +5,6 @@ class Dog
   end #setter/writer
 
   def name
-    puts @name
+    @name
   end #getter/reader
 end
