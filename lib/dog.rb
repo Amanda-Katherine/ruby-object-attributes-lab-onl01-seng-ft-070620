@@ -4,7 +4,7 @@ class Dog
     puts @name = dogs_name
   end #setter/writer
 
-  # def name(dogs_name)
-  #   @this_dogs_name
-  # end #getter/reader
+  def name(dogs_name)
+    @name
+  end #getter/reader
 end
